@@ -129,10 +129,10 @@ module "config_log_archive" {
 
 | Name | Type |
 |------|------|
-| [alicloud_config_aggregator.log_archive](https://registry.terraform.io/providers/hashicorp/alicloud/latest/docs/resources/config_aggregator) | resource |
-| [alicloud_config_configuration_recorder.log_archive](https://registry.terraform.io/providers/hashicorp/alicloud/latest/docs/resources/config_configuration_recorder) | resource |
-| [alicloud_resource_manager_delegated_administrator.management](https://registry.terraform.io/providers/hashicorp/alicloud/latest/docs/resources/resource_manager_delegated_administrator) | resource |
-| [alicloud_account.log_archive](https://registry.terraform.io/providers/hashicorp/alicloud/latest/docs/data-sources/account) | data source |
+| [alicloud_config_aggregator.log_archive](https://registry.terraform.io/providers/aliyun/alicloud/latest/docs/resources/config_aggregator) | resource |
+| [alicloud_config_configuration_recorder.log_archive](https://registry.terraform.io/providers/aliyun/alicloud/latest/docs/resources/config_configuration_recorder) | resource |
+| [alicloud_resource_manager_delegated_administrator.management](https://registry.terraform.io/providers/aliyun/alicloud/latest/docs/resources/resource_manager_delegated_administrator) | resource |
+| [alicloud_account.log_archive](https://registry.terraform.io/providers/aliyun/alicloud/latest/docs/data-sources/account) | data source |
 
 ## Inputs
 
